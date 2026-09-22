@@ -1,2 +1,2 @@
 # fshfngr.github.io
-[](https://monsterultrawhite.com/)
+[monsterultrawhite.com](https://monsterultrawhite.com/)
