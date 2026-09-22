@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: Consolas;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
